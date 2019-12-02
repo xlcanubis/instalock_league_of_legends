@@ -4,6 +4,8 @@
 ### What is this?
 If you go afk , after starting a queue it will automatically accept the game and instalock your hero
 
+### Download?
+[Click Here](https://github.com/xlcanubis/instalock_league_of_legends/raw/master/instalockoflegends.zip)
 
 ### How to use?
 1. Extract all files into a folder
