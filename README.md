@@ -15,7 +15,7 @@ If you go afk , after starting a queue it will automatically accept the game and
 #### Important!
 League must be the **top** and **active window**, meaning it will not work if you ALT-TAB to another window or if you're browsing on the internet.
 
-Your League of Legends client must run at resolution of `1280*720`
+Your League of Legends client (not the game, just the client) must run at resolution of `1280*720`
 
 
 
